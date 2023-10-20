@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SlayerCode-@ChickenSoup269</h1>
-<h3 align="center">I’m software engineering student </h3>
+<h3 align="center" style="color: white;">I’m software engineering student </h3>
 <img align="right" width="80" src="https://yt3.googleusercontent.com/-IvtJnu7Z7oVyJC6adJ7UCjhgNBlLGZgVyorEhaR5SmpzJCUwkBKXIeqwQf7Jvx48MXg1NT4RwY=s176-c-k-c0x00ffffff-no-rj">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chickensoup269&label=Profile%20views&color=0e75b6&style=flat" alt="chickensoup269" /> </p>
 
