@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm SlayerCode-@ChickenSoup269</h1>
 <h3 align="center" style="color: white;">I’m software engineering student </h3>
-<img align="right" width="40" src="https://yt3.googleusercontent.com/-IvtJnu7Z7oVyJC6adJ7UCjhgNBlLGZgVyorEhaR5SmpzJCUwkBKXIeqwQf7Jvx48MXg1NT4RwY=s176-c-k-c0x00ffffff-no-rj">
+<img align="right" width="40" src="https://yt3.ggpht.com/_ucHK3TaND0lT3Fj5s8Oy6EThWQrpDEazqntGAgURgN98VQkb0Rqd2IyuchHWWidh3ay46vTrA=s108-c-k-c0x00ffffff-no-rj">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chickensoup269&label=Profile%20views&color=0e75b6&style=flat" alt="chickensoup269" /> </p>
 
 - 💬 Ask me about: **please don't ask :):**
@@ -25,7 +25,7 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35"/> </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="35" height="35"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="mongodb" width="35" height="35"/> </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="35" height="35"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35" height="35"/> </a> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35"/> </a> 
