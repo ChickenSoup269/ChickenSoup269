@@ -2,12 +2,15 @@
 <div align="center">
 	<br>
 	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
-		<img src="header.svg" width="800" height="400" alt="Click to see the source">
+		<img src="header2.svg" width="800" height="400" alt="Click to see the source">
 	</a>
 	<br>
 </div>
 
-<img align="right" width="40" src="https://yt3.ggpht.com/_ucHK3TaND0lT3Fj5s8Oy6EThWQrpDEazqntGAgURgN98VQkb0Rqd2IyuchHWWidh3ay46vTrA=s108-c-k-c0x00ffffff-no-rj" />
+
+<div class="wrapper">
+  <img class="image" align="right" width="40" src="https://yt3.ggpht.com/_ucHK3TaND0lT3Fj5s8Oy6EThWQrpDEazqntGAgURgN98VQkb0Rqd2IyuchHWWidh3ay46vTrA=s108-c-k-c0x00ffffff-no-rj" />
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chickensoup269&label=Profile%20views&color=0e75b6&style=flat" alt="chickensoup269" /> </p>
 
