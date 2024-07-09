@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm SlayerCode-@ChickenSoup269</h1>
 <h3 align="center" style="color: white;">I’m software engineering student </h3>
-<img align="right" width="40" src="https://yt3.ggpht.com/_ucHK3TaND0lT3Fj5s8Oy6EThWQrpDEazqntGAgURgN98VQkb0Rqd2IyuchHWWidh3ay46vTrA=s108-c-k-c0x00ffffff-no-rj">
- <img
-                align="right"
-                width="40"
-                src="https://yt3.ggpht.com/_ucHK3TaND0lT3Fj5s8Oy6EThWQrpDEazqntGAgURgN98VQkb0Rqd2IyuchHWWidh3ay46vTrA=s108-c-k-c0x00ffffff-no-rj"
-                style={{ filter: 'blur(30px) saturate(5)' }}
-                alt="Sample"
+<div>
+    <img align="right" width="40" src="https://yt3.ggpht.com/_ucHK3TaND0lT3Fj5s8Oy6EThWQrpDEazqntGAgURgN98VQkb0Rqd2IyuchHWWidh3ay46vTrA=s108-c-k-c0x00ffffff-no-rj" style="border-radius: 50%;">
+</div>
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chickensoup269&label=Profile%20views&color=0e75b6&style=flat" alt="chickensoup269" /> </p>
 
 - 💬 Ask me about: **please don't ask :):**
