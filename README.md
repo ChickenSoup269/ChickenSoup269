@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SlayerCode-@ChickenSoup269</h1>
 <h3 align="center" style="color: white;">I’m software engineering student </h3>
-<div>
-    <img align="right" width="40" src="https://yt3.ggpht.com/_ucHK3TaND0lT3Fj5s8Oy6EThWQrpDEazqntGAgURgN98VQkb0Rqd2IyuchHWWidh3ay46vTrA=s108-c-k-c0x00ffffff-no-rj" style="border-radius: 50%;">
+<div style="border-radius: 50%;>
+    <img align="right" width="40" src="https://yt3.ggpht.com/_ucHK3TaND0lT3Fj5s8Oy6EThWQrpDEazqntGAgURgN98VQkb0Rqd2IyuchHWWidh3ay46vTrA=s108-c-k-c0x00ffffff-no-rj" ">
 </div>
 
 
