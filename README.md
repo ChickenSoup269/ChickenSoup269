@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm SlayerCode-@ChickenSoup269</h1>
 <div align="center">
 	<br>
 	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
@@ -6,6 +5,8 @@
 	</a>
 	<br>
 </div>
+<h1 align="center">Hi 👋, I'm SlayerCode-@ChickenSoup269</h1>
+
 
 
 <div class="wrapper">
@@ -20,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/channel/UC38U2OW6gr-vXOgk9YlIyMQ" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="slayercode" height="30" width="30" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,6 +30,9 @@
  </p>
  
 [![My Skills](https://skillicons.dev/icons?i=java,react,nodejs,git,docker,html,css,js,cs,cloudflare,codepen,discord,eclipse,firebase,postman,py,stackoverflow,ts,visualstudio,vscode,tailwind,pug,postgres,php,npm,mongodb,github,bots,bootstrap,figma&theme=light)](https://skillicons.dev)
+
+<img src="https://aleen42.github.io/badges/src/stackoverflow.svg"> 
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chickensoup269&show_icons=true&locale=en&layout=compact" alt="chickensoup269" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chickensoup269&show_icons=true&locale=en" alt="chickensoup269" /></p>
