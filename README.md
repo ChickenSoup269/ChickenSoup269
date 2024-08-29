@@ -7,8 +7,6 @@
 </div>
 <h1 align="center">Hi 👋, I'm SlayerCode-@ChickenSoup269</h1>
 
-
-
 <div class="wrapper">
   <img class="image" align="right" width="40" src="https://yt3.ggpht.com/_ucHK3TaND0lT3Fj5s8Oy6EThWQrpDEazqntGAgURgN98VQkb0Rqd2IyuchHWWidh3ay46vTrA=s108-c-k-c0x00ffffff-no-rj" />
 </div>
@@ -20,6 +18,9 @@
 - ⚡ Fun fact: **I think I'm handsome :v**
 
 <h3 align="left">Connect with me:</h3>
+
+<a href="https://hub.docker.com/u/zeroslayer"><img src="https://aleen42.github.io/badges/src/docker.svg"></a> <a href="https://www.youtube.com/channel/UC38U2OW6gr-vXOgk9YlIyMQ"><img src="https://aleen42.github.io/badges/src/youtube.svg"></a> <a href="https://github.com/ChickenSoup269"><img src="https://aleen42.github.io/badges/src/github.svg"></a> <a href="https://www.facebook.com/profile.php?id=100057159705494"><img src="https://aleen42.github.io/badges/src/facebook.svg"></a> 
+
 <p align="left">
 
 </p>
@@ -31,7 +32,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,react,nodejs,git,docker,html,css,js,cs,cloudflare,codepen,discord,eclipse,firebase,postman,py,stackoverflow,ts,visualstudio,vscode,tailwind,pug,postgres,php,npm,mongodb,github,bots,bootstrap,figma&theme=light)](https://skillicons.dev)
 
-<img src="https://aleen42.github.io/badges/src/stackoverflow.svg"> 
 
 ###
 
