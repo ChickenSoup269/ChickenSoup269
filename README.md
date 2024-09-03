@@ -12,7 +12,8 @@
 - 💬 Ask me about: **please don't ask :):**
 - 👀 Hãy code: **✨Thật hào nhoáng✨ nào =))**
 - ⚡ Fun fact: **I think I'm handsome :v**
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ChickenSoup269&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="85" alt="languages graph" />
+- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ChickenSoup269&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="120" alt="languages graph" />
+
 <h3 align="left">Connect with me:</h3>
 
 <a href="https://hub.docker.com/u/zeroslayer"><img src="https://aleen42.github.io/badges/src/docker.svg"></a> <a href="https://www.youtube.com/channel/UC38U2OW6gr-vXOgk9YlIyMQ"><img src="https://aleen42.github.io/badges/src/youtube.svg"></a> <a href="https://github.com/ChickenSoup269"><img src="https://aleen42.github.io/badges/src/github.svg"></a> <a href="https://www.facebook.com/profile.php?id=100057159705494"><img src="https://aleen42.github.io/badges/src/facebook.svg"></a> 
