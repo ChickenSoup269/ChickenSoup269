@@ -12,7 +12,7 @@
 - 💬 Ask me about: **please don't ask :):**
 - 👀 Hãy code: **✨Thật hào nhoáng✨ nào =))**
 - ⚡ Fun fact: **I think I'm handsome :v**
-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ChickenSoup269&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="120" alt="languages graph" />
+- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ChickenSoup269&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=&hide_border=true&order=2" height="120" alt="languages graph" />
 
 <h3 align="left">Connect with me:</h3>
 
