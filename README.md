@@ -1,4 +1,4 @@
-<div align='center'><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/52f9b33a-ed74-4534-bef2-37ed42a37782/dgd2rdv-5e55cedb-dffc-462a-a961-994c9b42bf61.png/v1/fill/w_1056,h_757/gojo__geto__shoko_render_by_apriononurhakim_dgd2rdv-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODIwIiwicGF0aCI6IlwvZlwvNTJmOWIzM2EtZWQ3NC00NTM0LWJlZjItMzdlZDQyYTM3NzgyXC9kZ2QycmR2LTVlNTVjZWRiLWRmZmMtNDYyYS1hOTYxLTk5NGM5YjQyYmY2MS5wbmciLCJ3aWR0aCI6Ijw9MTE0NCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.y-Cp7z25D9Do_xo8Rp9zlA12Fj2v5YNeWPsBobimF54" height="auto" width="480"></div>
+<div align='center'><img src="https://i.pinimg.com/originals/c6/f8/ea/c6f8ea31a9ba7dae55542599a777e989.jpg" height="300" width="880" border-radius="5px"></div>
 
 
 <h1 align="center">Hi 👋, I'm SlayerCode-@ChickenSoup269</h1>
