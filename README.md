@@ -1,10 +1,10 @@
-<div align='center'><img src="https://i.pinimg.com/originals/c6/f8/ea/c6f8ea31a9ba7dae55542599a777e989.jpg" height="300" width="880" border-radius="5px"></div>
+<div align='center'><img src="https://github.com/ChickenSoup269/Zero_Movie/blob/main/frontend/public/logo.png" height="300" width="880" border-radius="5px"></div>
 
 
 <h1 align="center">Hi 👋, I'm SlayerCode-@ChickenSoup269</h1>
 
 <div class="wrapper">
-  <img class="image" align="right" width="40" src="https://yt3.ggpht.com/_ucHK3TaND0lT3Fj5s8Oy6EThWQrpDEazqntGAgURgN98VQkb0Rqd2IyuchHWWidh3ay46vTrA=s108-c-k-c0x00ffffff-no-rj" />
+  <img class="image" align="right" width="40" src="https://github.com/ChickenSoup269/Zero_Movie/blob/main/frontend/public/logo2.png" />
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chickensoup269&label=Profile%20views&color=0e75b6&style=flat" alt="chickensoup269" /> </p>
