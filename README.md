@@ -1,4 +1,4 @@
-<div align='center'><img src="https://github.com/ChickenSoup269/ChickenSoup269/blob/main/lmao.png" height="300" width="1000" border-radius="5px"></div>
+<div align='center'><img src="https://github.com/ChickenSoup269/ChickenSoup269/blob/main/lmao.png" height="320" width="1000" border-radius="5px"></div>
 
 
 <h1 align="center">Hi 👋, I'm SlayerCode-@ChickenSoup269</h1>
