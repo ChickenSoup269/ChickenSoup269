@@ -12,7 +12,8 @@
 - 💬 Ask me about: **please don't ask :):**
 - 👀 Hãy code: **✨Thật hào nhoáng✨ nào =))**
 - ⚡ Fun fact: **I think I'm handsome :v**
-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ChickenSoup269&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=&hide_border=true&order=2" height="120" alt="languages graph" />
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChickenSoup269&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <h3 align="left">Connect with me:</h3>
 
@@ -33,12 +34,18 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChickenSoup269&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark_pro&locale=en&hide_border=false&order=1" height="125" alt="stats graph" />
-  
 
-  
-  <img src="https://streak-stats.demolab.com?user=ChickenSoup269&locale=en&mode=daily&theme=dark_pro&hide_border=false&border_radius=5&order=3" height="125" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=ChickenSoup269&theme=dark_pro&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
+![](https://github-readme-stats.vercel.app/api?username=ChickenSoup269&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+![](https://nirzak-streak-stats.vercel.app/?user=ChickenSoup269&theme=dark&hide_border=false)<br/>
+
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=ChickenSoup269&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChickenSoup269&radius=16&theme=react-dark&area=true&order=5" height="300" alt="activity-graph graph" />
 </div>
 
