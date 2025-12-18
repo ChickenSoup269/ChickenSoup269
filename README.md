@@ -13,11 +13,9 @@
 - 👀 Hãy code: **✨Thật hào nhoáng✨ nào =))**
 - ⚡ Fun fact: **I think I'm handsome :v**
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChickenSoup269&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://hub.docker.com/u/zeroslayer"><img src="https://aleen42.github.io/badges/src/docker.svg"></a> <a href="https://www.youtube.com/channel/UC38U2OW6gr-vXOgk9YlIyMQ"><img src="https://aleen42.github.io/badges/src/youtube.svg"></a> <a href="https://github.com/ChickenSoup269"><img src="https://aleen42.github.io/badges/src/github.svg"></a> 
+<a href="https://hub.docker.com/u/zeroslayer"><img src="https://aleen42.github.io/badges/src/docker.svg"></a> <a href="https://www.youtube.com/channel/UC38U2OW6gr-vXOgk9YlIyMQ"><img src="https://aleen42.github.io/badges/src/youtube.svg"></a> <a href="https://github.com/ChickenSoup269">
 
 <p align="left">
 
@@ -31,24 +29,18 @@
 [![My Skills](https://skillicons.dev/icons?i=java,react,nodejs,git,docker,html,css,js,cs,cloudflare,codepen,discord,eclipse,firebase,postman,py,stackoverflow,ts,visualstudio,vscode,tailwind,pug,postgres,php,npm,mongodb,github,bots,bootstrap,figma&theme=light)](https://skillicons.dev)
 
 
-###
-
-<div align="center">
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChickenSoup269&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  
 ![](https://github-readme-stats.vercel.app/api?username=ChickenSoup269&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
+
 ![](https://nirzak-streak-stats.vercel.app/?user=ChickenSoup269&theme=dark&hide_border=false)<br/>
+  
 
 
 
----
-[![](https://visitcount.itsvg.in/api?id=ChickenSoup269&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChickenSoup269&radius=16&theme=react-dark&area=true&order=5" height="300" alt="activity-graph graph" />
-</div>
 
 
-####
+
+
 
