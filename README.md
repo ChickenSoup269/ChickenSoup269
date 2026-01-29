@@ -1,4 +1,4 @@
-<img src="https://trancentral.tv/wp-content/uploads/2016/05/expedition.gif" width="100%"
+<img src="https://trancentral.tv/wp-content/uploads/2016/05/10_void_animated.gif" width="100%"
     height="400"/>
    
 <p align="center"> 
