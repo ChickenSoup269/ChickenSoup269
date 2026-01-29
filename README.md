@@ -6,7 +6,7 @@
 <div class="wrapper">
    <img  align="right" 
     src="https://github-readme-stats-2-theta-opal.vercel.app/api/top-langs/?username=ChickenSoup269&layout=pie&theme=merko"
-    height="300"
+    height="120"
   />
 </div>
 
@@ -18,13 +18,6 @@
 - 💬 Ask me about: **please don't ask :):**
 - 👀 Hãy code: **✨Thật hào nhoáng✨ nào =))**
 - ⚡ Fun fact: **I think I'm handsome :v**
-
-
-
-
-<h3 align="left">Connect with me:</h3>
-
-<a href="https://hub.docker.com/u/zeroslayer"><img src="https://aleen42.github.io/badges/src/docker.svg"></a> <a href="https://www.youtube.com/channel/UC38U2OW6gr-vXOgk9YlIyMQ"><img src="https://aleen42.github.io/badges/src/youtube.svg"></a> <a href="https://github.com/ChickenSoup269">  <a href="https://www.facebook.com/tran.phuoc.thien.522405/"><img src="https://aleen42.github.io/badges/src/facebook.svg"></a>
 
 
 <p align="left">
