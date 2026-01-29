@@ -13,23 +13,75 @@
    <div><img src="https://github.com/ChickenSoup269/ChickenSoup269/blob/main/lmao.png" height="300" width="300" border-radius="5px"></div>
 </p>
 
-
+<p  align="right">   
 <img src="https://komarev.com/ghpvc/?username=chickensoup269&label=Profile%20views&color=0e75b6&style=flat" alt="chickensoup269" /> 
-
-<p align="center"> 
-<img src="https://skillicons.dev/icons?i=java,react,nodejs,git,docker,html,css,js,cs,cloudflare,codepen,discord,eclipse,firebase,postman,py,stackoverflow,ts,visualstudio,vscode,tailwind,pug,postgres,php,npm,mongodb,github,bots,bootstrap,figma&theme=light" />
 </p>
 
-- 💬 Ask me about: **please don't ask :):**
-- 👀 Hãy code: **✨Thật hào nhoáng✨ nào =))**
-- ⚡ Fun fact: **I think I'm handsome :v**
+### 👾 About Me
+
+- 💬 Ask me about: **Tech stuff (emotional support not included)**
+- 👀 Coding mode: **✨Hào nhoáng✨ but it works**
+- ⚡ Fun fact: **Good-looking code written by a good-looking dev**
+
+<table align="center">
+  <tr>
+    <th>Portfolio</th>
+    <th>Docker Hub</th>
+    <th>LinkedIn</th>
+    <th>GitHub</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://zero-portfolio.vercel.app" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-Zero-blue?style=for-the-badge&logo=googlechrome&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://hub.docker.com/u/zeroslayer" target="_blank">
+        <img src="https://img.shields.io/badge/DockerHub-zeroslayer-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/tr%E1%BA%A7n-ph%C6%B0%E1%BB%9Bc-thi%E1%BB%87n-zero-90ba9a329/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-TranPhuocThien-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ChickenSoup269" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-ChickenSoup269-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <th align="center"> Frontend</th>
+    <th align="center"> Backend</th>
+    <th align="center"> DevOps / Tools</th>
+    <th align="center"> IDEs & Others</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react,html,css,js,ts,tailwind,bootstrap,pug,figma&theme=dark" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,java,php,py,cs,postgres,mongodb&theme=dark" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,github,docker,cloudflare,firebase,npm,postman&theme=dark" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,discord,codepen,stackoverflow,bots&theme=dark" />
+    </td>
+  </tr>
+</table>
+
+
 
 | GitHub Streak | GitHub Stats |
 |--------------|--------------|
 | <p align="center"><img src="https://github-streak-generator-hazel.vercel.app?user=ChickenSoup269&theme=github-dark-blue&short_numbers=true" height="200"/></p> | <p align="center"><img src="https://github-readme-stats-2-theta-opal.vercel.app/api?username=ChickenSoup269&show_icons=true&theme=merko" height="200"/></p> |
-
-
-
 
 ---
 
