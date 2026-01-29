@@ -13,30 +13,33 @@
 - 👀 Hãy code: **✨Thật hào nhoáng✨ nào =))**
 - ⚡ Fun fact: **I think I'm handsome :v**
 
+[![Top Langs](https://github-readme-stats-2-theta-opal.vercel.app/api/top-langs/?username=ChickenSoup269&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="left">Connect with me:</h3>
 
 <a href="https://hub.docker.com/u/zeroslayer"><img src="https://aleen42.github.io/badges/src/docker.svg"></a> <a href="https://www.youtube.com/channel/UC38U2OW6gr-vXOgk9YlIyMQ"><img src="https://aleen42.github.io/badges/src/youtube.svg"></a> <a href="https://github.com/ChickenSoup269">  <a href="https://www.facebook.com/tran.phuoc.thien.522405/"><img src="https://aleen42.github.io/badges/src/facebook.svg"></a>
 
+
 <p align="left">
 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   
   </p>
 
-[![My Skills](https://skillicons.dev/icons?i=java,react,nodejs,git,docker,html,css,js,cs,cloudflare,codepen,discord,eclipse,firebase,postman,py,stackoverflow,ts,visualstudio,vscode,tailwind,pug,postgres,php,npm,mongodb,github,bots,bootstrap,figma&theme=light)](https://skillicons.dev)
+<div align="center">
+  <img
+    src="https://github-readme-streak-stats-olive-kappa.vercel.app?user=ChickenSoup269&theme=github-dark-blue&short_numbers=true"
+    height="180"
+  />  
+  <img
+    src="https://github-readme-stats-2-theta-opal.vercel.app/api?username=ChickenSoup269&show_icons=true&theme=merko"
+    height="180"
+  />
+</div>
 
-
-
-  
-
-<p align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats-olive-kappa.vercel.app?user=ChickenSoup269&theme=github-dark-blue&short_numbers=true)](https://git.io/streak-stats)
-
-</p>
+---
 
 <img src="https://github.com/ChickenSoup269/ChickenSoup269/blob/main/github-header-banner.png" height="320" width="1000" border-radius="5px">
 
