@@ -29,13 +29,16 @@
 [![My Skills](https://skillicons.dev/icons?i=java,react,nodejs,git,docker,html,css,js,cs,cloudflare,codepen,discord,eclipse,firebase,postman,py,stackoverflow,ts,visualstudio,vscode,tailwind,pug,postgres,php,npm,mongodb,github,bots,bootstrap,figma&theme=light)](https://skillicons.dev)
 
 
-[![GitHub Streak](https://github-readme-streak-stats-olive-kappa.vercel.app?user=ChickenSoup269&theme=github-dark-blue&short_numbers=true)](https://git.io/streak-stats)
+
   
 
+<p align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats-olive-kappa.vercel.app?user=ChickenSoup269&theme=github-dark-blue&short_numbers=true)](https://git.io/streak-stats)
 
+</p>
 
-
-
+<img src="https://github.com/ChickenSoup269/ChickenSoup269/blob/main/github-header-banner.png" height="320" width="1000" border-radius="5px">
 
 
 
