@@ -31,11 +31,11 @@
 <div align="center">
   <img
     src="https://github-readme-streak-stats-olive-kappa.vercel.app?user=ChickenSoup269&theme=github-dark-blue&short_numbers=true"
-    height="180"
+    height="140"
   />  
   <img
     src="https://github-readme-stats-2-theta-opal.vercel.app/api?username=ChickenSoup269&show_icons=true&theme=merko"
-    height="180"
+    height="140"
   />
 </div>
 
