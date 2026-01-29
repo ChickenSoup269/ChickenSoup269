@@ -33,7 +33,7 @@
     <th>Portfolio</th>
     <th>Docker Hub</th>
     <th>LinkedIn</th>
-    <th>GitHub</th>
+    <th>Youtube</th>
   </tr>
   <tr>
     <td align="center">
@@ -52,8 +52,8 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/ChickenSoup269" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-ChickenSoup269-181717?style=for-the-badge&logo=github&logoColor=white" />
+      <a href="https://www.youtube.com/channel/UC38U2OW6gr-vXOgk9YlIyMQ" target="_blank">
+        <img src="https://img.shields.io/badge/youtube-SlayerZero-red?style=for-the-badge&logo=youtube&logoColor=red" />
       </a>
     </td>
   </tr>
