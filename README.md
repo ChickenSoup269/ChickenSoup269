@@ -4,16 +4,25 @@
 <h1 align="center">Hi 👋, I'm SlayerCode-@ChickenSoup269</h1>
 
 <div class="wrapper">
-  <img class="image" align="right" width="40" src="https://github.com/ChickenSoup269/Zero_Movie/blob/main/frontend/public/logo2.png" />
+   <img  align="right" 
+    src="https://github-readme-stats-2-theta-opal.vercel.app/api/top-langs/?username=ChickenSoup269&layout=pie&theme=merko"
+    height="200"
+  />
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chickensoup269&label=Profile%20views&color=0e75b6&style=flat" alt="chickensoup269" /> </p>
+
+
+<p align="left">
+   <img src="https://komarev.com/ghpvc/?username=chickensoup269&label=Profile%20views&color=0e75b6&style=flat" alt="chickensoup269" /> 
+</p>
+
 
 - 💬 Ask me about: **please don't ask :):**
 - 👀 Hãy code: **✨Thật hào nhoáng✨ nào =))**
 - ⚡ Fun fact: **I think I'm handsome :v**
 
-[![Top Langs](https://github-readme-stats-2-theta-opal.vercel.app/api/top-langs/?username=ChickenSoup269&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <h3 align="left">Connect with me:</h3>
 
