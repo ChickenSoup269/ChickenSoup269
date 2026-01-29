@@ -1,11 +1,18 @@
 <img src="https://github.com/ChickenSoup269/ChickenSoup269/blob/main/Paul-Robertson-pixel-art.gif" width="100%"
     height="400"/>
    
-<p align="center"> 
-<img src="https://readme-typing-svg.demolab.com?font=Handjet&size=40&pause=1000&color=F7F7F7&background=FF000000&center=true&vCenter=true&width=435&lines=ChickenSoup269+%7C+Zero" />
-</p>
+<table width="100%">
+  <tr>
+    <td align="left">
+      <img src="https://komarev.com/ghpvc/?username=chickensoup269&label=Profile%20views&color=0e75b6&style=flat" />
+    </td>
+    <td align="right">
+      <img src="https://readme-typing-svg.demolab.com?font=Handjet&size=40&pause=1000&color=F7F7F7&background=FF000000&center=true&vCenter=true&width=435&lines=ChickenSoup269+%7C+Zero" />
+    </td>
+  </tr>
+</table>
 
----
+<hr>
 
 <img class="image" align="right" width="50" src="https://github.com/ChickenSoup269/Zero_Movie/blob/main/frontend/public/logo2.png" />
 
@@ -13,9 +20,7 @@
    <div><img src="https://github.com/ChickenSoup269/ChickenSoup269/blob/main/lmao.png" height="300" width="300" border-radius="5px"></div>
 </p>
 
-<p  align="right">   
-<img src="https://komarev.com/ghpvc/?username=chickensoup269&label=Profile%20views&color=0e75b6&style=flat" alt="chickensoup269" /> 
-</p>
+
 
 ### 👾 About Me
 
@@ -77,13 +82,11 @@
   </tr>
 </table>
 
-
-
 | GitHub Streak | GitHub Stats |
 |--------------|--------------|
 | <p align="center"><img src="https://github-streak-generator-hazel.vercel.app?user=ChickenSoup269&theme=github-dark-blue&short_numbers=true" height="200"/></p> | <p align="center"><img src="https://github-readme-stats-2-theta-opal.vercel.app/api?username=ChickenSoup269&show_icons=true&theme=merko" height="200"/></p> |
 
----
+<hr>
 
 <img src="https://github.com/ChickenSoup269/ChickenSoup269/blob/main/github-header-banner.png" height="320" width="1000" border-radius="5px">
 
