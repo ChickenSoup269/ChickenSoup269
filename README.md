@@ -63,8 +63,7 @@
   <tr>
     <th align="center"> Frontend</th>
     <th align="center"> Backend</th>
-    <th align="center"> DevOps / Tools</th>
-    <th align="center"> IDEs & Others</th>
+    <th align="center"> Others</th>
   </tr>
   <tr>
     <td align="center">
@@ -74,13 +73,11 @@
       <img src="https://skillicons.dev/icons?i=nodejs,java,php,py,cs,postgres,mongodb&theme=dark" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,docker,cloudflare,firebase,npm,postman&theme=dark" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,discord,codepen,stackoverflow,bots&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=git,github,docker,cloudflare,firebase,npm,postman,vscode,visualstudio,eclipse,discord,codepen,stackoverflow,bots&theme=dark" />
     </td>
   </tr>
 </table>
+
 
 | GitHub Streak | GitHub Stats |
 |--------------|--------------|
