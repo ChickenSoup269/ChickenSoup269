@@ -1,16 +1,14 @@
 <div align='center'><img src="https://github.com/ChickenSoup269/ChickenSoup269/blob/main/lmao.png" height="320" width="1000" border-radius="5px"></div>
 
 
-<h1 align="center">Hi 👋, I'm SlayerCode-@ChickenSoup269</h1>
+<h1 align="center">Hi 👋, I'm SlayerCode-@ChickenSoup269  <img class="image" width="40" src="https://github.com/ChickenSoup269/Zero_Movie/blob/main/frontend/public/logo2.png" /> </h1> 
 
 <div class="wrapper">
    <img  align="right" 
     src="https://github-readme-stats-2-theta-opal.vercel.app/api/top-langs/?username=ChickenSoup269&layout=pie&theme=merko"
-    height="200"
+    height="300"
   />
 </div>
-
-
 
 <p align="left">
    <img src="https://komarev.com/ghpvc/?username=chickensoup269&label=Profile%20views&color=0e75b6&style=flat" alt="chickensoup269" /> 
