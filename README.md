@@ -29,7 +29,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,react,nodejs,git,docker,html,css,js,cs,cloudflare,codepen,discord,eclipse,firebase,postman,py,stackoverflow,ts,visualstudio,vscode,tailwind,pug,postgres,php,npm,mongodb,github,bots,bootstrap,figma&theme=light)](https://skillicons.dev)
 
 
-![](https://nirzak-streak-stats.vercel.app/?user=ChickenSoup269&theme=dark&hide_border=false)<br/>
+[![GitHub Streak](https://github-readme-streak-stats-olive-kappa.vercel.app?user=ChickenSoup269&theme=github-dark-blue&short_numbers=true)](https://git.io/streak-stats)
   
 
 
