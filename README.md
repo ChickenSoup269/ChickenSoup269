@@ -84,7 +84,7 @@
 
 | GitHub Streak | GitHub Stats |
 |--------------|--------------|
-| <p align="center"><img src="https://github-streak-generator-hazel.vercel.app?user=ChickenSoup269&theme=github-dark-blue&short_numbers=true" height="200"/></p> | <p align="center"><img src="https://github-readme-stats-2-theta-opal.vercel.app/api?username=ChickenSoup269&show_icons=true&theme=merko" height="200"/></p> |
+| <p align="center"><img src="https://github-streak-generator-hazel.vercel.app?user=ChickenSoup269&theme=github-dark-blue&short_numbers=true" height="220"/></p> | <p align="center"><img src="https://github-readme-stats-2-theta-opal.vercel.app/api?username=ChickenSoup269&show_icons=true&theme=merko" height="220"/></p> |
 
 <hr>
 
