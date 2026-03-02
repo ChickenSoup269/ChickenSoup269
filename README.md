@@ -84,7 +84,7 @@
 
 | GitHub Streak | GitHub Stats |
 |--------------|--------------|
-| <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=ChickenSoup269&theme=github-dark-dimmed&short_numbers=true)](https://git.io/streak-stats" height="220"/></p> | <p align="center"><img src="https://github-readme-stats-fast.vercel.app/api?username=ChickenSoup269&show_icons=true&theme=dark" height="220"/></p> |
+| <p align="center"><img src="https://streak-stats.demolab.com?user=ChickenSoup269&theme=dark-smoky&short_numbers=true" height="220"/></p> | <p align="center"><img src="https://github-readme-stats-fast.vercel.app/api?username=ChickenSoup269&show_icons=true&theme=dark" height="220"/></p> |
 
 <hr>
 
