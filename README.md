@@ -1,6 +1,6 @@
-<img src="https://github.com/ChickenSoup269/ChickenSoup269/blob/main/Paul-Robertson-pixel-art.gif" width="100%"
-    height="400"/>
-   
+<img src="https://i.redd.it/a7w4v5gg60n61.gif" width="100%"
+    height="350" />
+
 <table width="100%">
   <tr>
     <td align="left">
