@@ -21,12 +21,25 @@
 </p>
 
 
-
+<table center>
+<tr>
+<td>
+    
 ### 👾 About Me
 
 - 💬 Ask me about: **Tech stuff (emotional support not included)**
 - 👀 Coding mode: **✨Hào nhoáng✨ but it works**
 - ⚡ Fun fact: **Good-looking code written by a good-looking dev**
+
+
+</td>
+<td>
+
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ChickenSoup269&layout=compact&theme=tokyonight" />
+
+</td>
+</tr>
+</table>
 
 <table align="center">
   <tr>
