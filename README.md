@@ -39,7 +39,7 @@
 
 <td align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ChickenSoup269&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ChickenSoup269&layout=compact&theme=dark"/>
 
 </td>
 
@@ -104,7 +104,7 @@
 
 | GitHub Streak | GitHub Stats |
 |--------------|--------------|
-| <p align="center"><img src="https://streak-stats.demolab.com?user=ChickenSoup269&theme=tokyonight&short_numbers=true" height="220"/></p> | <p align="center"><img src="https://github-readme-stats-fast.vercel.app/api?username=ChickenSoup269&show_icons=true&theme=tokyonight" height="220"/></p> |
+| <p align="center"><img src="https://streak-stats.demolab.com?user=ChickenSoup269&theme=dark&short_numbers=true" height="220"/></p> | <p align="center"><img src="https://github-readme-stats-fast.vercel.app/api?username=ChickenSoup269&show_icons=true&theme=dark" height="220"/></p> |
 
 <hr>
 
