@@ -11,6 +11,14 @@
     <td align="right">
       <img src="https://readme-typing-svg.demolab.com?font=Handjet&size=40&pause=1000&color=F7F7F7&background=FF000000&center=true&vCenter=true&width=435&lines=ChickenSoup269+%7C+Zero" />
     </td>
+      <td>
+         <a href="https://ko-fi.com/chickensoup269">
+            <img src="https://github.com/ChickenSoup269/imagesForRepo/blob/main/img_readme_home/kofi_readme.png?raw=true" width="120px" />
+        </a>
+        <a href="https://github.com/ChickenSoup269/imagesForRepo/blob/main/img_repo_extension_Startpage/qr_donation/momo_qr_Thien.jpg?raw=true">
+            <img src="https://github.com/ChickenSoup269/imagesForRepo/blob/main/img_readme_home/momo_readme_2.png?raw=true" width="120px" />
+        </a> 
+      </td>
   </tr>
 </table>
 
