@@ -14,10 +14,10 @@
     <!-- Gom 2 ảnh vào 1 ô và ép không xuống hàng -->
     <td align="right" style="white-space: nowrap;">
       <a href="https://ko-fi.com/chickensoup269">
-        <img src="https://github.com/ChickenSoup269/imagesForRepo/blob/main/img_readme_home/kofi_readme.png?raw=true" width="120px" />
+        <img src="https://github.com/ChickenSoup269/imagesForRepo/blob/main/img_readme_home/kofi_readme.png?raw=true" width="100px" />
       </a>
       <a href="https://github.com/ChickenSoup269/imagesForRepo/blob/main/img_repo_extension_Startpage/qr_donation/momo_qr_Thien.jpg?raw=true">
-        <img src="https://github.com/ChickenSoup269/imagesForRepo/blob/main/img_readme_home/momo_readme_2.png?raw=true" width="120px" />
+        <img src="https://github.com/ChickenSoup269/imagesForRepo/blob/main/img_readme_home/momo_readme_2.png?raw=true" width="100px" />
       </a> 
     </td>
   </tr>
